@@ -2,9 +2,6 @@
   <artifact type="jar" build-on-make="true" name="dioBankingDigital:jar">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="dioBankingDigital.jar">
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" />
-      </element>
       <element id="module-output" name="dioBankingDigital" />
     </root>
   </artifact>
