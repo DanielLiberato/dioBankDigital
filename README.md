@@ -3,7 +3,7 @@
 ## Criando um Banco Digital com Java e Orientação a Objetos
 
 Este é um projeto executado no terminal.<br>
-Requisito para inicializar o projeto é ter a jdk java 11 instalado em sua máquina local.<br>
+<strong>Requisito para inicializar o projeto</strong> é ter a jdk java 11 instalado em sua máquina local.<br>
 
 ## Execução
 - Baixe para sua máquina local o projeto.
